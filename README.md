@@ -1,1 +1,1 @@
-# Discord Voice Lounge
+# Discord Server Stats
